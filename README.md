@@ -69,6 +69,6 @@
 
 - GitHub: https://github.com/pandeyaditya2003-source
 
----
+- www.linkedin.com/in/aditya-pandey-1611b7267
 
 ⭐ Thanks for visiting my profile!
