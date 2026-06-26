@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi 👋, I'm Aditya Pandey
 
-<!--
-**pandeyaditya2003-source/pandeyaditya2003-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Analyst & Python Developer
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently learning Python, Pandas and NumPy
+
+🌱 Exploring Data Analysis and Power BI
+
+📊 Building Data Analytics Projects
+
+💻 Creating GitHub Portfolio Projects
+
+🎯 Goal: Become a Data Analyst
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- SQL
+
+### Libraries
+- Pandas
+- NumPy
+
+### Data Visualization
+- Power BI
+- Matplotlib
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Excel
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Global CO₂ Emissions Analysis
+- Data Cleaning with Pandas
+- Interactive Power BI Dashboard
+- Country-wise Analysis
+
+### 📈 Sales Dashboard
+- KPI Tracking
+- Power BI Visualizations
+- Business Insights
+
+### 🤖 Fraud Detection Project
+- Data Analysis
+- Risk Detection
+- Dashboard Reporting
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandeyaditya2003-source&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandeyaditya2003-source&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/pandeyaditya2003-source
+
+---
+
+⭐ Thanks for visiting my profile!
